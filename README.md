@@ -6,6 +6,7 @@ First, run the development server:
 
 En una terminal ejecutar npm i 
 despues npm run dev
+pagina principal  http://localhost:3000/pagetask/pagetask
 
 ```bash
 npm run dev
